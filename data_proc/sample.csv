@@ -1,0 +1,11 @@
+id,filename,label,is_train,data_source
+1000280,data/snap_dataset/ukb/1000280_21013_0_0.png,45.523491,0,ukb
+1000280,data/snap_dataset/ukb/1000280_21011_0_0.png,45.523491,0,ukb
+1001680,data/snap_dataset/ukb/1001680_21013_0_0.png,66.153763,1,ukb
+1001927,data/snap_dataset/ukb/1001927_21013_0_0.png,62.862774,1,ukb
+1001927,data/snap_dataset/ukb/1001927_21011_0_0.png,62.862774,1,ukb
+1002637,data/snap_dataset/ukb/1002637_21013_0_0.png,44.15453,0,ukb
+1002766,data/snap_dataset/ukb/1002766_21013_0_0.png,65.006569,1,ukb
+1003170,data/snap_dataset/ukb/1003170_21011_0_0.png,55.147301,1,ukb
+1003170,data/snap_dataset/ukb/1003170_21013_0_0.png,55.147301,1,ukb
+1003660,data/snap_dataset/ukb/1003660_21011_0_0.png,46.884239,1,ukb
